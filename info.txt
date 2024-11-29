@@ -1,0 +1,6 @@
+psql -U postgres evm_face - To open the db in CLI
+\dt - To see the tables in the db
+\d voters - To see the voters table
+\d party - To see the party table
+SELECT * FROM voters; - To see all the voters
+SELECT * FROM party; - To see all the parties
